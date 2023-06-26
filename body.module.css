@@ -1,0 +1,8 @@
+.img{
+   background-size: contain;
+   background-color: aqua;
+   border: 2px solid red;
+   height: 35vh;
+   width: 98.5vw;
+
+}
